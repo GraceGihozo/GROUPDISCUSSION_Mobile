@@ -1,1 +1,1 @@
-##Todo list application which has theese widgets: container & padding, constrained box, sized box etc
+##A Todo list application which has the following widgets: container & padding, constrained box, sized box etc
